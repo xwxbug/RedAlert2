@@ -13,7 +13,7 @@ int*    g_lp_winmain_ncmdshow = (int*)0xB263CC;
 #pragma comment(lib,"Comctl32.lib")
 
 
-HCURSOR __fastcall sub_737BD0_create_main_windows(HINSTANCE hInstance, int n_show, int n_width, int n_height)
+HCURSOR __fastcall sub_00737BD0_create_main_windows(HINSTANCE hInstance, int n_show, int n_width, int n_height)
 {
 	DWORD v6; // ST2C_4
 	BOOL v7; // ST28_4

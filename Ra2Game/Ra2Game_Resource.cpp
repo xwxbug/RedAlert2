@@ -1,6 +1,6 @@
 #include "Ra2Game.h"
 
-HRSRC __fastcall sub_4954E0_load_game_resource(LPCSTR lpname, LPCSTR lpType)
+HRSRC __fastcall sub_004954E0_load_game_resource(LPCSTR lpname, LPCSTR lpType)
 {
 	HRSRC   result;
 	HMODULE h_resource_module = NULL;
