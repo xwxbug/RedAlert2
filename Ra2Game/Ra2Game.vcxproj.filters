@@ -18,15 +18,43 @@
     <ClCompile Include="Ra2Game.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ra2Game_Resource.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ra2Game.h">
       <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="Ra2Game.def">
       <Filter>源文件</Filter>
     </None>
+    <None Include="CURSOR104.cur">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Ra2Game.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ICON93.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ICON160.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ICON161.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ICON162.ico">
+      <Filter>资源文件</Filter>
+    </Image>
   </ItemGroup>
 </Project>

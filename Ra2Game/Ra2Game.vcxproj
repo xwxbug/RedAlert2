@@ -144,12 +144,24 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Ra2Game.cpp" />
+    <ClCompile Include="Ra2Game_Resource.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ra2Game.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="CURSOR104.cur" />
     <None Include="Ra2Game.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Ra2Game.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ICON160.ico" />
+    <Image Include="ICON161.ico" />
+    <Image Include="ICON162.ico" />
+    <Image Include="ICON93.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,7 +1,7 @@
 LIBRARY "RA2GAME"
 EXPORTS
 
-func_00000001=DllMain			@1
+sub_4954E0_load_game_resource			@1
 func_00000002=DllMain			@2
 func_00000003=DllMain			@3
 func_00000004=DllMain			@4
