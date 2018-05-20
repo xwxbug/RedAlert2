@@ -21,6 +21,12 @@
     <ClCompile Include="Ra2Game_Resource.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Ra2Game_Window.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ra2Game_DirectDraw.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ra2Game.h">

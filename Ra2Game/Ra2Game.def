@@ -2,8 +2,8 @@ LIBRARY "RA2GAME"
 EXPORTS
 
 sub_4954E0_load_game_resource			@1
-func_00000002=DllMain			@2
-func_00000003=DllMain			@3
+sub_737BD0_create_main_windows			@2
+sub_00495970_DirectDrawPrep_00			@3
 func_00000004=DllMain			@4
 func_00000005=DllMain			@5
 func_00000006=DllMain			@6

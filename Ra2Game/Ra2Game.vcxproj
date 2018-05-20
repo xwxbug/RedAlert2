@@ -144,7 +144,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Ra2Game.cpp" />
+    <ClCompile Include="Ra2Game_DirectDraw.cpp" />
     <ClCompile Include="Ra2Game_Resource.cpp" />
+    <ClCompile Include="Ra2Game_Window.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ra2Game.h" />
